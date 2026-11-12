@@ -9,7 +9,7 @@ Docker Hub Repository
 screenshots/dockerhub-repository.png
 
 Running Docker Container
-screenshots/docker-container-running.png
+[{image alt}(https://github.com/madawaMax/student-management-api/blob/0887ba5d9e86de2f7926cea25315e721f6822e47/screenshots/docker-container-running.png)]
 
 A Spring Boot REST API application containerized with Docker and integrated with a GitHub Actions CI pipeline for automated build, Docker image creation, and Docker Hub publishing.
 
