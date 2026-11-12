@@ -6,7 +6,7 @@ GitHub Actions CI Pipeline
 ![Alt text](https://github.com/madawaMax/student-management-api/blob/372dde9cefdcf24524cedb22558ca5db810a4678/screenshots/github-actions-success.png)
 
 Docker Hub Repository
-![Alt text]()
+![Alt text](https://github.com/madawaMax/student-management-api/blob/f30dd44834cb84d535b7dcf17d6ec583ab666ce9/screenshots/dockerhub-repository.png)
 
 Running Docker Container
 ![Alt text](https://github.com/madawaMax/student-management-api/blob/0887ba5d9e86de2f7926cea25315e721f6822e47/screenshots/docker-container-running.png)]
