@@ -2,6 +2,15 @@ Student Management API - DevOps CI Pipeline Project
 
 Screenshots
 
+GitHub Actions CI Pipeline
+screenshots/github-actions-success.png
+
+Docker Hub Repository
+screenshots/dockerhub-repository.png
+
+Running Docker Container
+screenshots/docker-container-running.png
+
 A Spring Boot REST API application containerized with Docker and integrated with a GitHub Actions CI pipeline for automated build, Docker image creation, and Docker Hub publishing.
 
 Project Overview
