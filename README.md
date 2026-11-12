@@ -3,10 +3,10 @@ Student Management API - DevOps CI Pipeline Project
 Screenshots
 
 GitHub Actions CI Pipeline
-screenshots/github-actions-success.png
+![Alt text](https://github.com/madawaMax/student-management-api/blob/372dde9cefdcf24524cedb22558ca5db810a4678/screenshots/github-actions-success.png)
 
 Docker Hub Repository
-screenshots/dockerhub-repository.png
+![Alt text]()
 
 Running Docker Container
 ![Alt text](https://github.com/madawaMax/student-management-api/blob/0887ba5d9e86de2f7926cea25315e721f6822e47/screenshots/docker-container-running.png)]
